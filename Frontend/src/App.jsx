@@ -38,6 +38,7 @@ const App = () => {
   }, []);
 
   return (
+
     <div className="App">
       <h1>Gold Price</h1>
       {error ? (
